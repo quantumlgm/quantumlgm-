@@ -29,11 +29,10 @@ Now, I have a solid understanding of JavaScript and am actively learning Node.js
 * Учёба: Обучение на программиста
 
 ## Tech stack / Технологии
-[ENG]
-HTML
-CSS
-JavaScript (Node.js, grammy.js)
-Git
+* HTML
+* CSS
+* JavaScript (Node.js, grammy.js)
+* Git
 
 
 ## Main project / Целевой проект
