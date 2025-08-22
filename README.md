@@ -38,10 +38,10 @@ Now, I have a solid understanding of JavaScript and am actively learning Node.js
 
 ## Main project / Целевой проект
 [ENG]
-Telegram bot "Mood Diary" — a bot for tracking mood and emotions, built with Node.js using Grammy.js and PostgreSQL. The bot will support adding photos/videos, comments, voice messages, daily emojis, weather info, and many other features, as well as the ability to skip any entry successfully :). Although there are many mood diaries, I aim to make mine unique, multifunctional, and guaranteed free.
+The Telegram bot "Mood Diary" is designed for tracking moods and emotions. It will be developed using Node.js with Grammy.js and PostgreSQL. The bot will include features like adding comments, a daily emoji, mood tracking, activities, and many other functions. Although there are many mood diaries out there, I am going to make this one unique, multifunctional, and absolutely free.
 
 [RU]
-Телеграм-бот "Дневник настроения" — бот для отслеживания настроения и эмоций, будет написан на Node.js с использованием Grammy.js и PostgreSQL. В боте будут возможности добавления фото/видео, комментариев, голосовых сообщений, смайлика дня, погоды и множества других функций, а также удобный пропуск любого из них :). Конечно, существует много дневников настроения, но я сделаю его уникальным, многофункциональным и гарантированно бесплатным.
+Телеграм-бот "Дневник настроения" — бот для отслеживания настроения и эмоций, будет написан на Node.js с использованием Grammy.js и PostgreSQL. В боте будут возможности добавления комментариев, смайлика дня, настроения, активностей и множества других функций. Конечно, существует много дневников настроения, но я сделаю его уникальным, многофункциональным и гарантированно бесплатным.
 
 
 ### This README file was created on 18.06.2025. Greetings from the past!
