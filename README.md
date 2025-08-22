@@ -20,13 +20,13 @@ Now, I have a solid understanding of JavaScript and am actively learning Node.js
 [ENG]
 * Name: Ruslan
 * Country: Russia
-* Age: 15
+* Age: 16
 * Education: Studying programming
 
 [RU]
 * Имя: Руслан
 * Страна: Росси
-* Возраст: 15
+* Возраст: 16
 * Учёба: Обучение на программиста
 
 ## Tech stack / Технологии
